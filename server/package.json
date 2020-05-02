@@ -1,0 +1,20 @@
+{
+  "name": "app-hapi-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/inert": "^6.0.1",
+    "dotenv": "^8.2.0",
+    "hapi-pino": "^8.0.0",
+    "hapi-postgres-connection": "^7.0.0",
+    "unique-filename": "^1.1.1",
+    "uuid": "^8.0.0"
+  }
+}
